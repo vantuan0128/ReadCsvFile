@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Upload CSV</title>
+</head>
+<body>
+    <h1>Tải lên file CSV</h1>
+
+    <form method="post" enctype="multipart/form-data" th:action="@{/upload-csv}">
+        <input type="file" name="file" />
+        <button type="submit">Upload</button>
+    </form>
+
+    <p th:text="${message}"></p>
+
+    <a th:href="@{/export-csv}">Download dữ liệu dưới dạng CSV</a>
+</body>
+</html>
+
