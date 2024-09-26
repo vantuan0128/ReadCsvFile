@@ -1,4 +1,4 @@
-package com.tun.assignment2.validator;
+package com.tuan.assignment2.validator;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

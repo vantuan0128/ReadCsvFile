@@ -1,0 +1,15 @@
+User
+ID,Full Name,Age,Email,
+1,Hung Nguyen Ba,22,vantuan0128@gmail.com,
+2,Thong Bui Van,21,thongbui2@gmail.com,
+7,Quan Nguyen Phu,20,quannp3@gmail.com,
+
+Cat
+ID,Number of legs,Blood group,Name of owner,Date of birth,
+1,4,A,Tuan Nguyen,2020-09-25T00:00,
+2,4,B,Nhung Nguyen,2021-10-14T00:00,
+3,4,A,Dat Quoc,2018-06-27T00:00,
+4,4,O,Thong Bui,2023-06-14T00:00,
+5,4,A,Huy Quoc,2018-08-25T00:00,
+6,3,B,Manh Vu,2022-03-17T00:00,
+
