@@ -1,6 +1,6 @@
-package com.tun.assignment2.entity;
+package com.tuan.assignment2.entity;
 
-import com.tun.assignment2.validator.CsvColumn;
+import com.tuan.assignment2.validator.CsvColumn;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.*;
@@ -13,7 +13,7 @@ import lombok.experimental.FieldDefaults;
 @Builder
 @FieldDefaults(level = AccessLevel.PRIVATE)
 @Entity
-public class Customer {
+public class User {
     @Id
     @CsvColumn(name = "ID")
     int id;
@@ -23,4 +23,7 @@ public class Customer {
 
     @CsvColumn(name = "Age")
     int age;
+
+    @CsvColumn(name = "Email")
+    String email;
 }

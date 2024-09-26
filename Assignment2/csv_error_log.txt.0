@@ -1,0 +1,128 @@
+Sep 26, 2024 11:09:02 AM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 4: Email is invalid - nhung@gmail.com
+Sep 26, 2024 11:09:02 AM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 5: Email is invalid - manhvx@gmail.com
+Sep 26, 2024 11:09:02 AM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 6: Email is invalid - datnq@gmail.com
+Sep 26, 2024 11:09:02 AM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 7: Email is invalid - huy@gmail.com
+Sep 26, 2024 11:09:02 AM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 9: Email is invalid - tienvh@gmail.com
+Sep 26, 2024 11:09:02 AM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 10: Email is invalid - anhvtt@gmail.com
+Sep 26, 2024 2:29:50 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 4: Email is invalid - nhung@gmail.com
+Sep 26, 2024 2:29:50 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 5: Email is invalid - manhvx@gmail.com
+Sep 26, 2024 2:29:50 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 6: Email is invalid - datnq@gmail.com
+Sep 26, 2024 2:29:50 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 7: Email is invalid - huy@gmail.com
+Sep 26, 2024 2:29:50 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 9: Email is invalid - tienvh@gmail.com
+Sep 26, 2024 2:29:50 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 10: Email is invalid - anhvtt@gmail.com
+Sep 26, 2024 2:32:07 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 2: Unsupported data types: char
+Sep 26, 2024 2:32:07 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 3: Unsupported data types: char
+Sep 26, 2024 2:32:07 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 4: For input string: " 4"
+Sep 26, 2024 2:32:07 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 5: Unsupported data types: char
+Sep 26, 2024 2:32:07 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 6: Unsupported data types: char
+Sep 26, 2024 2:32:07 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 7: Unsupported data types: char
+Sep 26, 2024 2:34:51 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 2: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:34:51 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 3: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:34:51 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 4: For input string: " 4"
+Sep 26, 2024 2:34:51 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 5: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:34:51 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 6: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:34:51 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 7: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:36:41 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 2: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:36:41 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 3: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:36:41 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 4: For input string: " 4"
+Sep 26, 2024 2:36:41 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 5: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:36:41 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 6: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:36:41 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 7: Can not set char field com.tuan.assignment2.entity.Cat.bloodGroup to java.lang.String
+Sep 26, 2024 2:38:15 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 2: Text '25/09/2020' could not be parsed at index 0
+Sep 26, 2024 2:38:15 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 3: Text '14/10/2021' could not be parsed at index 0
+Sep 26, 2024 2:38:15 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 4: For input string: " 4"
+Sep 26, 2024 2:38:15 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 5: Text '14/06/2023' could not be parsed at index 0
+Sep 26, 2024 2:38:15 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 6: Text '25/08/2018' could not be parsed at index 0
+Sep 26, 2024 2:38:15 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 7: Text '17/03/2022' could not be parsed at index 0
+Sep 26, 2024 2:40:21 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 2: Text '25/09/2020' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {},ISO resolved to 2020-09-25 of type java.time.format.Parsed
+Sep 26, 2024 2:40:21 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 3: Text '14/10/2021' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {},ISO resolved to 2021-10-14 of type java.time.format.Parsed
+Sep 26, 2024 2:40:21 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 4: For input string: " 4"
+Sep 26, 2024 2:40:21 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 5: Text '14/06/2023' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {},ISO resolved to 2023-06-14 of type java.time.format.Parsed
+Sep 26, 2024 2:40:21 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 6: Text '25/08/2018' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {},ISO resolved to 2018-08-25 of type java.time.format.Parsed
+Sep 26, 2024 2:40:21 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 7: Text '17/03/2022' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {},ISO resolved to 2022-03-17 of type java.time.format.Parsed
+Sep 26, 2024 2:42:48 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 2: Unsupported data types: class java.time.LocalDate
+Sep 26, 2024 2:42:48 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 3: Unsupported data types: class java.time.LocalDate
+Sep 26, 2024 2:42:48 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 4: Unsupported data types: class java.time.LocalDate
+Sep 26, 2024 2:42:48 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 5: Unsupported data types: class java.time.LocalDate
+Sep 26, 2024 2:42:48 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 6: Unsupported data types: class java.time.LocalDate
+Sep 26, 2024 2:42:48 PM com.tuan.assignment2.logger.CsvLogger logError
+SEVERE: Error at line 7: Unsupported data types: class java.time.LocalDate
+Sep 26, 2024 2:46:09 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 4: Email is invalid - nhung@gmail.com
+Sep 26, 2024 2:46:09 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 5: Email is invalid - manhvx@gmail.com
+Sep 26, 2024 2:46:09 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 6: Email is invalid - datnq@gmail.com
+Sep 26, 2024 2:46:09 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 7: Email is invalid - huy@gmail.com
+Sep 26, 2024 2:46:09 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 9: Email is invalid - tienvh@gmail.com
+Sep 26, 2024 2:46:09 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 10: Email is invalid - anhvtt@gmail.com
+Sep 26, 2024 3:04:23 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 1: Service for entity type Cat returned null.
+Sep 26, 2024 3:08:39 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 1: Service for entity type Cat returned null.
+Sep 26, 2024 3:25:31 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 2: No data to write for entity type: User
+Sep 26, 2024 3:54:31 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 2: No data to write for entity type: User
+Sep 26, 2024 4:43:07 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 4: Email is invalid - nhung@gmail.com
+Sep 26, 2024 4:43:07 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 5: Email is invalid - manhvx@gmail.com
+Sep 26, 2024 4:43:07 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 6: Email is invalid - datnq@gmail.com
+Sep 26, 2024 4:43:07 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 7: Email is invalid - huy@gmail.com
+Sep 26, 2024 4:43:07 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 9: Email is invalid - tienvh@gmail.com
+Sep 26, 2024 4:43:07 PM com.tuan.assignment2.logger.CsvLogger logWarning
+WARNING: Line 10: Email is invalid - anhvtt@gmail.com
